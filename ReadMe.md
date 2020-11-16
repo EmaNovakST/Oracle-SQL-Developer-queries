@@ -1,6 +1,3 @@
-# Oracle-SQL-Developer-queries
-Various queries and functions exploring the Oracle SQL Developer capabilities
-Tables used:
 CREATE TABLE DEPT
        (DEPTNO NUMBER(2) CONSTRAINT PK_DEPT PRIMARY KEY,
 	DNAME VARCHAR2(14) ,
